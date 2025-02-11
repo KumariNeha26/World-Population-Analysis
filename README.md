@@ -10,7 +10,7 @@ Identify key demographic factors impacting changes
 Project Files
 world_population.ipynb – Jupyter Notebook for data analysis
 world_population.csv – Dataset used for analysis
-World Population Analysis.pptx – Presentation summarizing key insights
+world_population_analysis.pptx – Presentation summarizing key insights
 README.md – Project documentation
 
 Technologies Used
